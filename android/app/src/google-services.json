@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94820759468",
+    "project_id": "best-dawai",
+    "storage_bucket": "best-dawai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94820759468:android:eb1cf2f55f9937c5f9ac09",
+        "android_client_info": {
+          "package_name": "com.bestdawaiappuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDANsGwaJWSWsbwSROkqrwl_dHremTHyoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
